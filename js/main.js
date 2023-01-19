@@ -122,6 +122,6 @@ function RetiraEventosTeclas() {
         //console.log(element);
     
         element.removeEventListener('click', eventos);
-        
+
     }
 }
